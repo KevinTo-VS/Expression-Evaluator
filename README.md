@@ -24,6 +24,4 @@ The Expression Evaluator is a Java program that is designed to parse and evaluat
 4. Running Sequences of Commands:
   - Use the "RUN" command followed by the line number to execute each instruction in order of the line numbers as if it had been entered directly from the console. Example: "RUN 10"
 
-## Example
 
-''' SymbolTable st
